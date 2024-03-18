@@ -39,7 +39,7 @@ public class PrefabAssetDependencyCheckTool : EditorWindow
         ".png", ".jpg", ".jpeg", ".tga", ".bmp", ".psd", ".gif", ".hdr", ".exr", ".tif", ".tiff"
     };
 
-    [MenuItem("Tools/Art Tools/Scene Node Dependency Check Tool")]
+    [MenuItem("Tools/Artist Tools/Scene Node Dependency Check Tool")]
     private static void ShowWindow()
     {
         var window = GetWindow<PrefabAssetDependencyCheckTool>("Scene Node Dependency Check Tool");

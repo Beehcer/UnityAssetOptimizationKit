@@ -20,7 +20,7 @@ public class AssetAndPrefabTool : EditorWindow
     private bool copyAllComponents = true;
     private bool keepName = true;
 
-    [MenuItem("Tools/Art Tools/Scene Node Pack & Replace Tool")]
+    [MenuItem("Tools/Artist Tools/Scene Node Pack & Replace Tool")]
     private static void Init()
     {
         GetWindow<AssetAndPrefabTool>(true, "Scene Node Pack & Replace Tool", true);
