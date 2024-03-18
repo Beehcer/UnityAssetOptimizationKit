@@ -46,7 +46,7 @@ This code is part of a Unity Editor extension, implementing a custom editor wind
 
     *   [x] Preserve Naming
 
-![image](https://github.com/Beehcer/UnityTools/assets/52235943/aa685181-8c84-479c-864d-dfea79cf4305)
+![Frame 34557296](https://github.com/Beehcer/UnityAssetOptimizationKit/assets/52235943/5bdb929a-095e-41ef-82af-8425a259697d)
 
 
 
@@ -60,7 +60,7 @@ This code is part of a Unity Editor extension, implementing a custom editor wind
 
 *   Dependency Explorer: This feature allows users to explore and display all the dependent assets of the selected object. A clear button is provided to clear the displayed list of dependencies.
 
-![image](https://github.com/Beehcer/UnityTools/assets/52235943/d6a90812-9520-4901-b08a-34a558ad1825)
+![image](https://github.com/Beehcer/UnityAssetOptimizationKit/assets/52235943/9481262f-b878-4cdf-abbc-23c254d7bed9)
 
 
 
