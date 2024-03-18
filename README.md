@@ -29,3 +29,39 @@
 
 
 *整体上，这个工具大大提高了美术资产管线中的工作效率，尤其是在管理资源和分析资源依赖关系方面。通过精确地显示资源间的关联，可以帮助团队成员明晰和优化资产间的结构，从而减少冗余并提高游戏的性能。*
+
+
+
+
+
+## **\[ Scene Node Packaging and Replacement Tool ]**
+
+This code is part of a Unity Editor extension, implementing a custom editor window called "Scene Node Packaging and Replacement Tool". It offers functionalities for operating on Unity object nodes (GameObject) and Prefabs.
+
+*   Node Packaging Tool&#x20;
+
+*   One-Click File Replacement Tool
+
+    *   [x] Copy Components
+
+    *   [x] Preserve Naming
+
+![image](https://github.com/Beehcer/UnityTools/assets/52235943/aa685181-8c84-479c-864d-dfea79cf4305)
+
+
+
+*The existence of this tool significantly improves the efficiency of the art team when dealing with asset and object replacements, especially helpful for large-scale scene reconstruction or resource structure adjustments. It simplifies the usually cumbersome manual processing workflow.*
+
+## **\[ Scene Resource Dependency Lookup Tool ]**
+
+&#x20;      This code defines a Unity editor window tool called "Scene Resource Dependency Lookup Tool", providing two main functionalities to enhance the content creation and management workflow.
+
+*   Object Finder: This tool allows users to select any object in a Unity scene and find its source file based on that object. If the object has been renamed in the scene, it will be displayed in a different style, indicating that the object and its source file no longer have the same name.
+
+*   Dependency Explorer: This feature allows users to explore and display all the dependent assets of the selected object. A clear button is provided to clear the displayed list of dependencies.
+
+![image](https://github.com/Beehcer/UnityTools/assets/52235943/d6a90812-9520-4901-b08a-34a558ad1825)
+
+
+
+*Overall, this tool significantly improves work efficiency in the art assets pipeline, particularly in managing resources and analyzing resource dependencies. By accurately displaying the relationships between resources, it helps team members clarify and optimize the structure between assets, thereby reducing redundancy and improving the game's performance.*
